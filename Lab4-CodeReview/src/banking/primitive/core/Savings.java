@@ -1,5 +1,13 @@
 package banking.primitive.core;
 
+/*
+ * File: Savings.java
+ * Author: Kevin Gary
+ * Date: April 2017
+ * 
+ * Description: Creates object of type savings account
+ */
+
 public class Savings extends Account {
 	private static final long serialVersionUID = 111L;
 	private int numWithdraws = 0;
