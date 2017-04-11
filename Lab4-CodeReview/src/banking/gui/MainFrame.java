@@ -11,6 +11,14 @@ import java.awt.Container;
 import java.awt.event.*;
 import javax.swing.*;
 
+/*
+ * File: MainFrame.java
+ * Author: kevingary
+ * Date: April 2017
+ * 
+ * Description: Creates the graphical interface for Banking java application
+ */
+
 @SuppressWarnings("serial")
 class MainFrame extends JFrame {
 	AccountServer	myServer;
